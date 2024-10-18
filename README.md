@@ -1,11 +1,12 @@
-Hi 👋 My name is Tushar Kataria
-===============================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tushar Kataria
+======================================================================================================================================
 
-Astrophysics student
+Astrophysics Graduate
 --------------------
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tusharkataria06@gmail.com](mailto:tusharkataria06@gmail.com)
+* 🧠  Msci Physics with Astrophysics (Hons.) from Queen Mary University of London
 
 ### Skills
 
