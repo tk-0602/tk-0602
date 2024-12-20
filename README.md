@@ -1,8 +1,10 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, I'm Tushar
 ======================================================================================================================================
 
+<!---
 MSci Physics with Astrophysics graduate seeking Data Science positions
 --------------------
+-->
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tusharkataria06@gmail.com](mailto:tusharkataria06@gmail.com)
@@ -35,4 +37,8 @@ MSci Physics with Astrophysics graduate seeking Data Science positions
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tk-0602"><img src="https://github-readme-stats.vercel.app/api?username=tk-0602&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="tk-0602's GitHub stats" /></a>
+[![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tk-0602\&theme=city_lights\&bg_color=00000000\&show_icons=true\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk-0602&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+-->
