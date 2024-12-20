@@ -33,11 +33,9 @@ MSci Physics with Astrophysics graduate seeking Data Science positions
 <p align="left"> <a href="https://www.github.com/tk-0602" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tushar-kataria-36176920a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-### Badges
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
-
-[![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tk-0602\&theme=city_lights\&bg_color=00000000\&show_icons=true\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tk-0602\&hide_title=true\&theme=city_lights\&bg_color=00000000\&show_icons=true\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk-0602&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
